@@ -1,3 +1,4 @@
 {
-    "mongoURI" : "mongodb+srv://CareerNetwork:careerNetwork@cluster0.ynznp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI" : "mongodb+srv://CareerNetwork:careerNetwork@cluster0.ynznp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret" : "randomToken"
 }
